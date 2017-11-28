@@ -1,4 +1,5 @@
-By Patrick Quinn
+By Patrick Quinn<br>
+<br>
 <br>
 <a href="https://github.com/mjackson/expect">/expect</a>
 

@@ -13,3 +13,14 @@ By Patrick Quinn<br>
 <a href="https://github.com/fchollet/deep-learning-models">/deep-learning-models</a>
 
 <a href="https://github.com/leapmotion/Leap-Three-Camera-Controls">/Leap-Three-Camera-Controls</a>
+<br>
+<br>
+<br>
+/neural-storyteller
+https://github.com/ryankiros/neural-storyteller
+
+/requests
+https://github.com/requests/requests
+
+/strapdown
+https://github.com/arturadib/strapdown

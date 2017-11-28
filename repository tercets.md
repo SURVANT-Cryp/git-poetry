@@ -16,11 +16,8 @@ By Patrick Quinn<br>
 <br>
 <br>
 <br>
-/neural-storyteller
-https://github.com/ryankiros/neural-storyteller
+<a href="https://github.com/ryankiros/neural-storyteller">/neural-storyteller</a>
 
-/requests
-https://github.com/requests/requests
+<a href="https://github.com/requests/requests">/requests</a>
 
-/strapdown
-https://github.com/arturadib/strapdown
+<a href="https://github.com/arturadib/strapdown">/strapdown</a>

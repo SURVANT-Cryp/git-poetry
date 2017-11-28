@@ -3,7 +3,7 @@
 
 <a href="https://github.com/lizadaly/a-physical-book">/a-physical-book</a>
 
-<a href="https://github.com/kislyuk/watchtower">/watchtower</a><br>
+<a href="https://github.com/kislyuk/watchtower">/watchtower</a>
 <br>
 <br>
 <br>

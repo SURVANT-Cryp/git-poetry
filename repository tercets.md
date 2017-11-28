@@ -1,6 +1,5 @@
 By Patrick Quinn<br>
 <br>
-<br>
 <a href="https://github.com/mjackson/expect">/expect</a>
 
 <a href="https://github.com/lizadaly/a-physical-book">/a-physical-book</a>

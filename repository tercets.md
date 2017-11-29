@@ -2,9 +2,9 @@ By Patrick Quinn<br>
 <br>
 <a href="https://github.com/mjackson/expect">/expect</a>
 
-<a href="https://github.com/lizadaly/a-physical-book">/a-physical-book</a>
+<a href="https://github.com/emacsway/ascetic">/ascetic</a>
 
-<a href="https://github.com/kislyuk/watchtower">/watchtower</a>
+<a href="https://github.com/navelbarnet/WatchTowers">/watchtowers</a>
 <br>
 <br>
 <br>

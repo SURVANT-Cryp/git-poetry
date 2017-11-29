@@ -40,11 +40,11 @@ By Patrick Quinn<br>
 <br>
 <br>
 <br>
-<a href="https://github.com/grant/walk-in-my-shoes">/walk-in-my-shoes</a>
-
 <a href="https://github.com/codecourse/slender">/slender</a>
 
-<a href="https://github.com/SuccessfulLatino/capitalist">/capitalist</a>
+<a href="https://github.com/Crypto-Expert/HoboNickels">/HoboNickels</a>
+
+<a href="https://github.com/grant/walk-in-my-shoes">/walk-in-my-shoes</a>
 <br>
 <br>
 <br>

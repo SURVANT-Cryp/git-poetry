@@ -40,11 +40,11 @@ By Patrick Quinn<br>
 <br>
 <br>
 <br>
-<a href="https://github.com/types/sequelize">/sequelize</a>
-
-<a href="https://github.com/google/error-prone">/error-prone</a>
+<a href="https://github.com/grant/walk-in-my-shoes">/walk-in-my-shoes</a>
 
 <a href="https://github.com/doctrine/migrations">/migrations</a>
+
+<a href="https://github.com/types/sequelize">/sequelize</a>
 <br>
 <br>
 <br>
@@ -56,7 +56,7 @@ By Patrick Quinn<br>
 <br>
 <br>
 <br>
-<a href="https://github.com/hunkim/deep_architecture_genealogy">/deep_architecture_genealogy</a>
+<a href="https://github.com/vanessa-bell/rhetorical-uterus">/rhetorical-uterus</a>
 
 <a href="https://github.com/dissolete/Cries">/Cries</a>
 

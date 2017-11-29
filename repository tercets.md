@@ -61,3 +61,11 @@ By Patrick Quinn<br>
 <a href="https://github.com/dissolete/Cries">/Cries</a>
 
 <a href="https://github.com/ryancox/motionless">/motionless</a>
+<br>
+<br>
+<br>
+<a href="https://github.com/facebook/fatal">/fatal</a>
+
+<a href="https://github.com/conorotompkins/allegheny_overdoses">/allegheny_overdoses</a>
+
+<a href="https://github.com/TaDaa/react-poppy">/react-poppy</a>

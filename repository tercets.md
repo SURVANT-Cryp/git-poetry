@@ -24,11 +24,11 @@ By Patrick Quinn<br>
 <br>
 <br>
 <br>
-<a href="https://github.com/RipMeApp/ripme">/ripme</a>
-
 <a href="https://github.com/endless-sky/endless-sky">/endless-sky</a>
 
-<a href="https://github.com/googlecartographer/cartographer">/cartographer</a>
+<a href="https://github.com/RipMeApp/ripme">/ripme</a>
+
+<a href="https://github.com/sgibbons/longingly">/longingly</a>
 <br>
 <br>
 <br>

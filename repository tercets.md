@@ -10,7 +10,7 @@ By Patrick Quinn<br>
 <br>
 <a href="https://github.com/Shopify/draggable">/draggable</a>
 
-<a href="https://github.com/fchollet/deep-learning-models">/deep-learning-models</a>
+<a href="https://github.com/jsomers/liars">/liars</a>
 
 <a href="https://github.com/leapmotion/Leap-Three-Camera-Controls">/Leap-Three-Camera-Controls</a>
 <br>

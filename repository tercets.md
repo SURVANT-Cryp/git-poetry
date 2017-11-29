@@ -21,3 +21,43 @@ By Patrick Quinn<br>
 <a href="https://github.com/requests/requests">/requests</a>
 
 <a href="https://github.com/arturadib/strapdown">/strapdown</a>
+<br>
+<br>
+<br>
+<a href="https://github.com/RipMeApp/ripme">/ripme</a>
+
+<a href="https://github.com/endless-sky/endless-sky">/endless-sky</a>
+
+<a href="https://github.com/googlecartographer/cartographer">/cartographer</a>
+<br>
+<br>
+<br>
+<a href="https://github.com/Neamar/KISS">/KISS</a>
+
+<a href="https://github.com/serenity-bdd/serenity-core">/serenity-core</a>
+
+<a href="https://github.com/infection/infection">/infection</a>
+<br>
+<br>
+<br>
+<a href="https://github.com/types/sequelize">/sequelize</a>
+
+<a href="https://github.com/google/error-prone">/error-prone</a>
+
+<a href="https://github.com/doctrine/migrations">/migrations</a>
+<br>
+<br>
+<br>
+<a href="https://github.com/MoonchildProductions/Pale-Moon">/Pale-Moon</a>
+
+<a href="https://github.com/capitalone/cloud-custodian">/cloud-custodian</a>
+
+<a href="https://github.com/openlayers/openlayers">/openlayers</a>
+<br>
+<br>
+<br>
+<a href="https://github.com/hunkim/deep_architecture_genealogy">/deep_architecture_genealogy</a>
+
+<a href="https://github.com/dissolete/Cries">/Cries</a>
+
+<a href="https://github.com/ryancox/motionless">/motionless</a>

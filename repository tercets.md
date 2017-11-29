@@ -4,7 +4,7 @@ By Patrick Quinn<br>
 
 <a href="https://github.com/emacsway/ascetic">/ascetic</a>
 
-<a href="https://github.com/navelbarnet/WatchTowers">/watchtowers</a>
+<a href="https://github.com/navelbarnet/WatchTowers">/WatchTowers</a>
 <br>
 <br>
 <br>
@@ -50,7 +50,7 @@ By Patrick Quinn<br>
 <br>
 <a href="https://github.com/MoonchildProductions/Pale-Moon">/Pale-Moon</a>
 
-<a href="https://github.com/hyeon0720/DRAMATICS">/dramatics</a>
+<a href="https://github.com/hyeon0720/DRAMATICS">/DRAMATICS</a>
 
 <a href="https://github.com/Smaash/fuckshitup">/fuckshitup</a>
 <br>

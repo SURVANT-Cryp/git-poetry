@@ -42,9 +42,9 @@ By Patrick Quinn<br>
 <br>
 <a href="https://github.com/grant/walk-in-my-shoes">/walk-in-my-shoes</a>
 
-<a href="https://github.com/doctrine/migrations">/migrations</a>
+<a href="https://github.com/codecourse/slender">/slender</a>
 
-<a href="https://github.com/types/sequelize">/sequelize</a>
+<a href="https://github.com/SuccessfulLatino/capitalist">/capitalist</a>
 <br>
 <br>
 <br>
